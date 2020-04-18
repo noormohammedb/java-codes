@@ -1,4 +1,3 @@
-// project MatrixAddition;
 import java.util.Scanner;
 public class Main{
     // void get_array(int size, int array[][]);
