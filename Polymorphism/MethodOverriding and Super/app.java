@@ -6,6 +6,7 @@ public class app
     {
         Sub obj = new Sub();       
         obj.display();
+		obj.CallSuper();
     }
 
 }
